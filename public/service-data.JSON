@@ -1,0 +1,98 @@
+[
+    {
+        "id": "001",
+        "title": "Model Test Program",
+        "description": "3 Month model test program that includes all subjects for board exams. We follow board standard system and board sysllabus.",
+        "img": "https://image.shutterstock.com/image-vector/student-hand-fills-examination-quiz-260nw-404706664.jpg",
+        "price": 10000
+        
+    },
+    {
+        "id": "002",
+        "title": "SSC/HSC Program",
+        "description": "This program is for SSC/HSC candidate students. We will teach students to complete the board standard syllabus and prepare them for the board exam.",
+        "img": "https://image.freepik.com/free-vector/university-student-cap-mortar-board-diploma_3446-334.jpg",
+        "price": 12000
+        
+    },
+    {
+        "id": "003",
+        "title": "PEC/JSC program",
+        "description": "This program is for PEC/JSC candidate students. We will teach students to complete the board standard syllabus and prepare them for the board exam.",
+        "img": "https://image.freepik.com/free-photo/smiling-girl-studying-home_329181-18968.jpg",
+        "price": 5000
+        
+    },
+    {
+        "id": "004",
+        "title": "Admission Test",
+        "description": "Admission test program for the HSC students those are completed their HSC board exam. We are ready to prepare you for the University admission test. ",
+        "img": "https://truescho.com/storage/images/zK9znJpAxqAEUZl1Vkf6ID1bFhGHWkaMEXqvI8lY.jpg",
+        "price": 15000
+        
+    },
+    {
+        "id": "005",
+        "title": "Home Tutor",
+        "description": "We provide home tutor if anyone needed. We have large number of qualified teachers collection for each and every subjects.",
+        "img": "https://5.imimg.com/data5/SELLER/Default/2021/3/UE/KB/VF/99723496/kids-studying-from-home-bro-png-500x500.png",
+        "price": 3000
+        
+    },
+    {
+        "id": "006",
+        "title": "Individual Subject Program",
+        "description": "Sometimes student needs specific subjects lessons. So we have this service for these type of students. We want to provide the best service all the time.",
+        "img": "https://image.freepik.com/free-photo/book-with-green-board-background_1150-3837.jpg",
+        "price": 1500
+        
+    },
+    {
+        "id": "007",
+        "title": "Group Subject Program",
+        "description": "We have Science, Business Studies and also for the Humanities group subject program. We make different batch for the different groups students. ",
+        "img": "https://images.theconversation.com/files/230619/original/file-20180803-41354-1lwhwq8.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=900.0&fit=crop",
+        "price": 3500
+        
+    },
+    {
+        "id": "008",
+        "title": "Special Objective Test",
+        "description": "We have huge objective test program. So that student can practice objective tests. This is very important for the students.",
+        "img": "https://susanfitzell.com/wp-content/uploads/2015/02/20121029-multichoicetest.jpg",
+        "price": 2500
+        
+    },
+    {
+        "id": "009",
+        "title": "Monthly Exam",
+        "description": "In our regular academic programs we take monthly exam each every month so that we can realize students progress.",
+        "img": "https://cache.careers360.mobi/media/presets/900X600/article_images/2021/6/30/shutterstock_1664708983.jpg",
+        "price": 500
+        
+    },
+    {
+        "id": "010",
+        "title": "Academic Syllabus Program",
+        "description": "We follow the academic syllabus so that student can do well in their academic exams. If they need extra class we also provide it.",
+        "img": "https://yoyosarkari.com/wp-content/uploads/2021/03/syllabus.jpg",
+        "price": 3500
+        
+    },
+    {
+        "id": "011",
+        "title": "Special Batch Program",
+        "description": "Special batch program is specially for the female students those want to only with girls. On the other side we also provide same institute batch.",
+        "img": "https://thumbs.dreamstime.com/b/special-text-written-wooden-frame-school-blackboard-black-206567843.jpg",
+        "price": 3500
+        
+    },
+    {
+        "id": "012",
+        "title": "Practical Class Program",
+        "description": "We provide practical classes so that student and also provide multimedia class when needed. ",
+        "img": "https://leverageedu.com/blog/wp-content/uploads/2020/01/chemistry-practical.png",
+        "price": 1500
+        
+    }
+]

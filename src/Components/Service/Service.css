@@ -1,0 +1,18 @@
+.custom-card {
+    border: 1px solid rgba(255, 255, 255, 0.13);
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.062)
+}
+.custom-card img {
+    height: 220px;
+}
+.card-body{
+    height: 225px;
+}
+.card-body p{
+    font-size: 14px;
+}
+.card-body h6{
+    color: #fff;
+    font-size: 20px;
+}
