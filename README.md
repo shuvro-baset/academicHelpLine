@@ -1,6 +1,6 @@
 # Academic Help Line
 
-`[Live Site Link](https://ahl-ph.netlify.app/).`
+[Live Site Link](https://ahl-ph.netlify.app/).
 
 * AHL is an educational service center.
 * Our programs move 5-12 class students.
