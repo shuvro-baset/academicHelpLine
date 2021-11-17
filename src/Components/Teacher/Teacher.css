@@ -1,10 +1,17 @@
 .teacher-img{
-    height: 120px;
-    width: 120px; 
+    height: 90px;
+    width: 90px; 
     border-radius: 50%;
 }
 .teacher-card{
     border: 1px solid rgba(255, 255, 255, 0.13);
     border-radius: 10px;
     background-color: rgba(255, 255, 255, 0.062)
+}
+.card-footer-div{
+    background-color: rgba(8, 2, 46, 0.493);
+    
+}
+.social-icon{
+    font-size: 25px;
 }

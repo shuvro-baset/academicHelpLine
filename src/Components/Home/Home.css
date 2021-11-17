@@ -45,7 +45,7 @@
     width: 150px;
     margin-left: 5px;
     padding: 10px;
-    background: rgb(31,10,221);
+    /* background: rgb(31,10,221); */
     background: linear-gradient(90deg, rgba(31,10,221,1) 19%, rgba(72,66,217,1) 83%);
     color: #fff;
     outline: none;
