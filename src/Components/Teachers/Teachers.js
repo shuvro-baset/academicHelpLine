@@ -3,7 +3,6 @@ import { Col, Container, Row } from 'react-bootstrap';
 import Teacher from '../Teacher/Teacher';
 
 const Teachers = () => {
-
     // set teacher data using useState method
     const [teachers, setTeachers] = useState([]);
 
