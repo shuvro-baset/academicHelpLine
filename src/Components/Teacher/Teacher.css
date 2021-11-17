@@ -15,3 +15,6 @@
 .social-icon{
     font-size: 25px;
 }
+.social-icon:hover{
+    color:rgba(8, 2, 46, 0.493)
+}

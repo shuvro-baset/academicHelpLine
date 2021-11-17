@@ -1,5 +1,5 @@
 .App {
     background: rgb(23,37,75);
-background: linear-gradient(90deg, rgba(23,37,75,1) 0%, rgba(18,22,38,1) 80%);
+    background: linear-gradient(90deg, rgba(23,37,75,1) 0%, rgba(18,22,38,1) 80%);
     font-family: 'Poppins', sans-serif;
 }
