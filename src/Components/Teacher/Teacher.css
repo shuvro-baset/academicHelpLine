@@ -6,7 +6,8 @@
 .teacher-card{
     border: 1px solid rgba(255, 255, 255, 0.13);
     border-radius: 10px;
-    background-color: rgba(255, 255, 255, 0.062)
+    background-color: rgba(255, 255, 255, 0.062);
+    font-family: Poppins;
 }
 .card-footer-div{
     background-color: rgba(8, 2, 46, 0.493);
